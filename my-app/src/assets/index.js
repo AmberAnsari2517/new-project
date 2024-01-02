@@ -1,0 +1,6 @@
+export { default as honda} from './image/car-2.jpeg'
+export { default as mehran} from './image/car-3.jpeg'
+export {default as newcar} from './image/car-1.jpeg'
+export { default as cvic} from './image/car-4.jpeg'
+export {default as profile} from './image/pro.png'
+export {default as cvalue} from './image/c-1.jpg'

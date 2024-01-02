@@ -1,0 +1,1 @@
+export const ab=["amber ", "maria ", "faiza " , "rashed "]
