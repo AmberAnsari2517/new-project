@@ -9,7 +9,7 @@ export const Qno2 =()=>{
            if (value===string) {
               setResult("Yes it is pelindrome")
           } else {
-            setResult("No it is no pelindrome")
+            setResult("No it no pelindrome")
           }
         }
         
